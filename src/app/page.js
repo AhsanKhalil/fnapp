@@ -4,7 +4,7 @@ import Header,{GetSum} from './components/Header'
 export default function Home() {
   return (
     <>
-    <h1>Ahsan</h1>
+    <h1>Welcome page</h1>
 
 
     
